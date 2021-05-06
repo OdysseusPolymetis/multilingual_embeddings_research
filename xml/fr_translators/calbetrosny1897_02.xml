@@ -1,0 +1,2221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <text>
+    <body>
+      <div type="book" n="02">
+        <sentence n="1">
+          <word form="Quand" lemma="quand" postag="KON" id="calbetrosny1897_02" />
+          <word form="parut" lemma="paraître" postag="VER" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="Aurore" lemma="Aurore" postag="NAM" id="calbetrosny1897_02" />
+          <word form="aux" lemma="aux" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="doigts" lemma="doigt" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="rose" lemma="rose" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="élança" lemma="élancer" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="sa" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="couche" lemma="couche" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="vêtit" lemma="vêtir" postag="VER" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="suspendit" lemma="suspendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="son" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="épaule" lemma="épaule" postag="NOM" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="glaive" lemma="glaive" postag="NOM" id="calbetrosny1897_02" />
+          <word form="aigu" lemma="aigu" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="2">
+          <word form="Puis" lemma="puis" postag="ADV" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="donna" lemma="donner" postag="VER" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="ordre" lemma="ordre" postag="NOM" id="calbetrosny1897_02" />
+          <word form="aux" lemma="aux" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="hérauts" lemma="héraut" postag="NOM" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="assembler" lemma="assembler" postag="VER" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="Grecs" lemma="Grecs" postag="NAM" id="calbetrosny1897_02" />
+          <word form="chevelus" lemma="chevelu" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="3">
+          <word form="Il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="rendit" lemma="rendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="alors" lemma="alors" postag="ADV" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="assemblée" lemma="assemblée" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="4">
+          <word form="Ses" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="deux" lemma="deux" postag="NUM" id="calbetrosny1897_02" />
+          <word form="chiens" lemma="chien" postag="NOM" id="calbetrosny1897_02" />
+          <word form="aux" lemma="aux" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="pieds" lemma="pied" postag="NOM" id="calbetrosny1897_02" />
+          <word form="rapides" lemma="rapide" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="suivaient" lemma="suivre" postag="VER" id="calbetrosny1897_02" />
+          <word form="ses" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="5">
+          <word form="En" lemma="en" postag="PRP" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="voyant" lemma="voir" postag="VER" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="avancer" lemma="avancer" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="peuple" lemma="peuple" postag="NOM" id="calbetrosny1897_02" />
+          <word form="fut" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="saisi" lemma="saisir" postag="VER" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="admiration" lemma="admiration" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="car" lemma="car" postag="KON" id="calbetrosny1897_02" />
+          <word form="une" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="grâce" lemma="grâce" postag="KON" id="calbetrosny1897_02" />
+          <word form="divine" lemma="divin" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="était" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="sur" lemma="sur" postag="PRP" id="calbetrosny1897_02" />
+          <word form="sa" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="personne" lemma="personne" postag="PRO" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="6">
+          <word form="Il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="assit" lemma="asseoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="sur" lemma="sur" postag="PRP" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="siège" lemma="siège" postag="NOM" id="calbetrosny1897_02" />
+          <word form="royal" lemma="royal" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vieillards" lemma="vieillard" postag="NOM" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="entourèrent" lemma="entourer" postag="VER" id="calbetrosny1897_02" />
+          <word form="respectueusement" lemma="respectueusement" postag="ADV" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="7">
+          <word form="Un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="héros" lemma="héros" postag="NOM" id="calbetrosny1897_02" />
+          <word form="courbé" lemma="courber" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="par" lemma="par" postag="PRP" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="hivers" lemma="hiver" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="Egyptios" lemma="Egyptios" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="parla" lemma="parler" postag="VER" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="premier" lemma="premier" postag="ADJ" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="avait" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="quatre" lemma="quatre" postag="NUM" id="calbetrosny1897_02" />
+          <word form="fils" lemma="fils" postag="NOM" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="8">
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="belliqueux" lemma="belliqueux" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="Antiphus" lemma="Antiphus" postag="NAM" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="suivit" lemma="suivre" postag="VER" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Troie" lemma="Troie" postag="NAM" id="calbetrosny1897_02" />
+          <word form="riche" lemma="riche" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="en" lemma="en" postag="PRP" id="calbetrosny1897_02" />
+          <word form="coursiers" lemma="coursier" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="trouva" lemma="trouver" postag="VER" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mort" lemma="mort" postag="NOM" id="calbetrosny1897_02" />
+          <word form="funeste" lemma="funeste" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="antre" lemma="antre" postag="NOM" id="calbetrosny1897_02" />
+          <word form="du" lemma="du" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="Cyclope" lemma="Cyclope" postag="NAM" id="calbetrosny1897_02" />
+          <word form="cruel" lemma="cruel" postag="ADJ" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Eurynomus" lemma="Eurynomus" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="prétendant" lemma="prétendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Pénélope" lemma="Pénélope" postag="NAM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="deux" lemma="deux" postag="NUM" id="calbetrosny1897_02" />
+          <word form="autres" lemma="autres" postag="PRO" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="cultivaient" lemma="cultiver" postag="VER" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="champs" lemma="champ" postag="NOM" id="calbetrosny1897_02" />
+          <word form="paternels" lemma="paternel" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="9">
+          <word form="Le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vieillard" lemma="vieillard" postag="NOM" id="calbetrosny1897_02" />
+          <word form="pleurant" lemma="pleurer" postag="VER" id="calbetrosny1897_02" />
+          <word form="son" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="fils" lemma="fils" postag="NOM" id="calbetrosny1897_02" />
+          <word form="Antiphus" lemma="Antiphus" postag="NAM" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="10">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Habitants" lemma="habitant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Ithaque" lemma="Ithaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="depuis" lemma="depuis" postag="PRP" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="jour" lemma="jour" postag="NOM" id="calbetrosny1897_02" />
+          <word form="où" lemma="où" postag="PRO" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="divin" lemma="divin" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="partit" lemma="partir" postag="VER" id="calbetrosny1897_02" />
+          <word form="sur" lemma="sur" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ses" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vaisseaux" lemma="vaisseau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="creux" lemma="creux" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="c'" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="première" lemma="premier" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="fois" lemma="fois" postag="NOM" id="calbetrosny1897_02" />
+          <word form="que" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="hérauts" lemma="héraut" postag="NOM" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="réunissent" lemma="réunir" postag="VER" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="11">
+          <word form="A" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="-t-on" lemma="on" postag="PRO" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="nouvelles" lemma="nouveau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="armée" lemma="armée" postag="NOM" id="calbetrosny1897_02" />
+          <word form="?" lemma="?" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="12">
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="13">
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="14">
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="15">
+          <word form="Pourquoi" lemma="pourquoi" postag="ADV" id="calbetrosny1897_02" />
+          <word form="cette" lemma="cette" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="assemblée" lemma="assemblée" postag="NOM" id="calbetrosny1897_02" />
+          <word form="?" lemma="?" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="16">
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="17">
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="18">
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="19">
+          <word form="Qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="a" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="convoqué" lemma="convoquer" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="?" lemma="?" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="20">
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="21">
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="22">
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="23">
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="levant" lemma="lever" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="prit" lemma="prendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="sceptre" lemma="sceptre" postag="NOM" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mains" lemma="main" postag="NOM" id="calbetrosny1897_02" />
+          <word form="du" lemma="du" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="héraut" lemma="héraut" postag="NOM" id="calbetrosny1897_02" />
+          <word form="Pisénor" lemma="Pisénor" postag="NAM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Egyptios" lemma="Egyptios" postag="NAM" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="24">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="O" lemma="ô" postag="PUN" id="calbetrosny1897_02" />
+          <word form="vieillard" lemma="vieillard" postag="NOM" id="calbetrosny1897_02" />
+          <word form="!" lemma="!" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="25">
+          <word form="c'" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="moi" lemma="moi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ai" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="convoqué" lemma="convoquer" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="peuple" lemma="peuple" postag="NOM" id="calbetrosny1897_02" />
+          <word form="pour" lemma="pour" postag="PRP" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dire" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="ceci" lemma="ceci" postag="PRO" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="26">
+          <word form="Un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="grand" lemma="grand" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="malheur" lemma="malheur" postag="NOM" id="calbetrosny1897_02" />
+          <word form="m'" lemma="me" postag="PRO" id="calbetrosny1897_02" />
+          <word form="accable" lemma="accabler" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="j'" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ai" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="perdu" lemma="perdre" postag="VER" id="calbetrosny1897_02" />
+          <word form="mon" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="père" lemma="père" postag="NOM" id="calbetrosny1897_02" />
+          <word form="chéri" lemma="chéri" postag="NOM" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="régnait" lemma="régner" postag="VER" id="calbetrosny1897_02" />
+          <word form="sur" lemma="sur" postag="PRP" id="calbetrosny1897_02" />
+          <word form="vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="si" lemma="si" postag="KON" id="calbetrosny1897_02" />
+          <word form="paternellement" lemma="paternellement" postag="ADV" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="profitant" lemma="profiter" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ma" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="faiblesse" lemma="faiblesse" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="hommes" lemma="homme" postag="NOM" id="calbetrosny1897_02" />
+          <word form="puissants" lemma="puissant" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="recherchent" lemma="rechercher" postag="VER" id="calbetrosny1897_02" />
+          <word form="ma" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mère" lemma="mère" postag="NOM" id="calbetrosny1897_02" />
+          <word form="contre" lemma="contre" postag="PRP" id="calbetrosny1897_02" />
+          <word form="son" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="gré" lemma="gré" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="n'" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="osant" lemma="oser" postag="VER" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="demander" lemma="demander" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="son" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="père" lemma="père" postag="NOM" id="calbetrosny1897_02" />
+          <word form="Icarios" lemma="Icarios" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ils" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="viennent" lemma="venir" postag="VER" id="calbetrosny1897_02" />
+          <word form="tous" lemma="tous" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="jours" lemma="jour" postag="NOM" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="notre" lemma="notre" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="maison" lemma="maison" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="égorger" lemma="égorger" postag="VER" id="calbetrosny1897_02" />
+          <word form="nos" lemma="nos" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="troupeaux" lemma="troupeau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="boire" lemma="boire" postag="VER" id="calbetrosny1897_02" />
+          <word form="nos" lemma="nos" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vins" lemma="vin" postag="NOM" id="calbetrosny1897_02" />
+          <word form="généreux" lemma="généreux" postag="ADJ" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="n'" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="-il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="point" lemma="point" postag="ADV" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="homme" lemma="homme" postag="NOM" id="calbetrosny1897_02" />
+          <word form="semblable" lemma="semblable" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="puisse" lemma="pouvoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="écarter" lemma="écarter" postag="VER" id="calbetrosny1897_02" />
+          <word form="ce" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="fléau" lemma="fléau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ma" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="demeure" lemma="demeure" postag="NOM" id="calbetrosny1897_02" />
+          <word form="?" lemma="?" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="27">
+          <word form="Je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="adjure" lemma="adjurer" postag="VER" id="calbetrosny1897_02" />
+          <word form="au" lemma="au" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="nom" lemma="nom" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Zeus" lemma="Zeus" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="faites" lemma="faire" postag="VER" id="calbetrosny1897_02" />
+          <word form="cesser" lemma="cesser" postag="VER" id="calbetrosny1897_02" />
+          <word form="ces" lemma="ces" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="choses" lemma="chose" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="laissez" lemma="laisser" postag="VER" id="calbetrosny1897_02" />
+          <word form="-moi" lemma="moi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ma" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="douleur" lemma="douleur" postag="NOM" id="calbetrosny1897_02" />
+          <word form="profonde" lemma="profond" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="28">
+          <word form="Il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="jeta" lemma="jeter" postag="VER" id="calbetrosny1897_02" />
+          <word form="son" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="sceptre" lemma="sceptre" postag="NOM" id="calbetrosny1897_02" />
+          <word form="en" lemma="en" postag="PRP" id="calbetrosny1897_02" />
+          <word form="versant" lemma="versant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="larmes" lemma="larme" postag="NOM" id="calbetrosny1897_02" />
+          <word form="amères" lemma="amer" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="29">
+          <word form="Tous" lemma="tous" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="furent" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="saisis" lemma="saisir" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="compassion" lemma="compassion" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="seul" lemma="seul" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="prétendant" lemma="prétendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="Antinoos" lemma="Antinoos" postag="NAM" id="calbetrosny1897_02" />
+          <word form="prit" lemma="prendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="parole" lemma="parole" postag="NOM" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="30">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="discoureur" lemma="discoureur" postag="NOM" id="calbetrosny1897_02" />
+          <word form="altier" lemma="altier" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="pourquoi" lemma="pourquoi" postag="ADV" id="calbetrosny1897_02" />
+          <word form="ce" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="langage" lemma="langage" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="veux" lemma="vouloir" postag="VER" id="calbetrosny1897_02" />
+          <word form="-tu" lemma="tu" postag="PRO" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="outrager" lemma="outrager" postag="VER" id="calbetrosny1897_02" />
+          <word form="?" lemma="?" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="31">
+          <word form="Tu" lemma="tu" postag="PRO" id="calbetrosny1897_02" />
+          <word form="n'" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="ignores" lemma="ignorer" postag="VER" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="cependant" lemma="cependant" postag="ADV" id="calbetrosny1897_02" />
+          <word form="que" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ta" lemma="ton" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mère" lemma="mère" postag="NOM" id="calbetrosny1897_02" />
+          <word form="seule" lemma="seul" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="coupable" lemma="coupable" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="par" lemma="par" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ses" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="ruses" lemma="ruse" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="car" lemma="car" postag="KON" id="calbetrosny1897_02" />
+          <word form="voilà" lemma="voilà" postag="PRP" id="calbetrosny1897_02" />
+          <word form="trois" lemma="trois" postag="NUM" id="calbetrosny1897_02" />
+          <word form="ans" lemma="an" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="bientôt" lemma="bientôt" postag="ADV" id="calbetrosny1897_02" />
+          <word form="quatre" lemma="quatre" postag="NUM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="qu'" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="berce" lemma="bercer" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="promesses" lemma="promesse" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="32">
+          <word form="Voici" lemma="voici" postag="PRP" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="dernier" lemma="dernier" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="stratagème" lemma="stratagème" postag="NOM" id="calbetrosny1897_02" />
+          <word form="imaginé" lemma="imaginer" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="par" lemma="par" postag="PRP" id="calbetrosny1897_02" />
+          <word form="son" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="esprit" lemma="esprit" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="33">
+          <word form="Elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="tissait" lemma="tisser" postag="VER" id="calbetrosny1897_02" />
+          <word form="sur" lemma="sur" postag="PRP" id="calbetrosny1897_02" />
+          <word form="son" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="plus" lemma="plus" postag="ADV" id="calbetrosny1897_02" />
+          <word form="grand" lemma="grand" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="métier" lemma="métier" postag="NOM" id="calbetrosny1897_02" />
+          <word form="une" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="toile" lemma="toile" postag="NOM" id="calbetrosny1897_02" />
+          <word form="sans" lemma="sans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="fin" lemma="fin" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="34">
+          <word form="&quot;" lemma="&quot;" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Jeunes" lemma="jeune" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="&quot;" lemma="&quot;" postag="PUN" id="calbetrosny1897_02" />
+          <word form="prétendants" lemma="prétendant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="disait" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="-elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="alors" lemma="alors" postag="ADV" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="&quot;" lemma="&quot;" postag="PUN" id="calbetrosny1897_02" />
+          <word form="puisque" lemma="puisque" postag="KON" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="divin" lemma="divin" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="mort" lemma="mort" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="&quot;" lemma="&quot;" postag="PUN" id="calbetrosny1897_02" />
+          <word form="laissez" lemma="laisser" postag="VER" id="calbetrosny1897_02" />
+          <word form="-moi" lemma="moi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="terminer" lemma="terminer" postag="VER" id="calbetrosny1897_02" />
+          <word form="ce" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="voile" lemma="voile" postag="NOM" id="calbetrosny1897_02" />
+          <word form="full" lemma="full" postag="NOM" id="calbetrosny1897_02" />
+          <word form="nèbre" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="destiné" lemma="destiner" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="au" lemma="au" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="héros" lemma="héros" postag="NOM" id="calbetrosny1897_02" />
+          <word form="Laërte" lemma="Laërte" postag="NAM" id="calbetrosny1897_02" />
+          <word form="dès" lemma="dès" postag="PRP" id="calbetrosny1897_02" />
+          <word form="&quot;" lemma="&quot;" postag="PUN" id="calbetrosny1897_02" />
+          <word form="que" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="Parque" lemma="Parque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="aura" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="couché" lemma="coucher" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="&quot;" lemma="&quot;" postag="PUN" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="tombeau" lemma="tombeau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="35">
+          <word form="Les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="lemmes" lemma="lemme" postag="NOM" id="calbetrosny1897_02" />
+          <word form="grec-" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="&quot;" lemma="&quot;" postag="PUN" id="calbetrosny1897_02" />
+          <word form="ques" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="indigneraient" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="si" lemma="si" postag="KON" id="calbetrosny1897_02" />
+          <word form="je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="laissais" lemma="laisser" postag="VER" id="calbetrosny1897_02" />
+          <word form="&quot;" lemma="&quot;" postag="PUN" id="calbetrosny1897_02" />
+          <word form="sans" lemma="sans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="linceul" lemma="linceul" postag="NOM" id="calbetrosny1897_02" />
+          <word form="cet" lemma="cet" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="homme" lemma="homme" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="bien" lemma="bien" postag="ADV" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="36">
+          <word form="&quot;" lemma="&quot;" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="écoutions" lemma="écouter" postag="VER" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ourdissait" lemma="ourdir" postag="VER" id="calbetrosny1897_02" />
+          <word form="pendant" lemma="pendant" postag="PRP" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="jour" lemma="jour" postag="NOM" id="calbetrosny1897_02" />
+          <word form="ce" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="voile" lemma="voile" postag="NOM" id="calbetrosny1897_02" />
+          <word form="funéraire" lemma="funéraire" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="qu'" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="défaisait" lemma="défaire" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="clarté" lemma="clarté" postag="NOM" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="flambeaux" lemma="flambeau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="37">
+          <word form="Durant" lemma="durant" postag="PRP" id="calbetrosny1897_02" />
+          <word form="trois" lemma="trois" postag="NUM" id="calbetrosny1897_02" />
+          <word form="années" lemma="année" postag="NOM" id="calbetrosny1897_02" />
+          <word form="elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dissimula" lemma="dissimuler" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="mais" lemma="mais" postag="KON" id="calbetrosny1897_02" />
+          <word form="une" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ses" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="suivantes" lemma="suivant" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="quatrième" lemma="quatrième" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="année" lemma="année" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="aveitit" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="surprimes" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="rusée" lemma="rusé" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="Pénélope" lemma="Pénélope" postag="NAM" id="calbetrosny1897_02" />
+          <word form="défaisant" lemma="défaire" postag="VER" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="voile" lemma="voile" postag="NOM" id="calbetrosny1897_02" />
+          <word form="superbe" lemma="superbe" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="38">
+          <word form="Renvoie" lemma="renvoyer" postag="VER" id="calbetrosny1897_02" />
+          <word form="donc" lemma="donc" postag="KON" id="calbetrosny1897_02" />
+          <word form="ta" lemma="ton" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mère" lemma="mère" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="qu'" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="désigne" lemma="désigner" postag="VER" id="calbetrosny1897_02" />
+          <word form="celui" lemma="celui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="entre" lemma="entre" postag="PRP" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="qu'" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="agréera" lemma="agréer" postag="VER" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="mais" lemma="mais" postag="KON" id="calbetrosny1897_02" />
+          <word form="n'" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="espère" lemma="espérer" postag="VER" id="calbetrosny1897_02" />
+          <word form="point" lemma="point" postag="ADV" id="calbetrosny1897_02" />
+          <word form="avant" lemma="avant" postag="PRP" id="calbetrosny1897_02" />
+          <word form="cela" lemma="cela" postag="PRO" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="voir" lemma="voir" postag="VER" id="calbetrosny1897_02" />
+          <word form="reprendre" lemma="reprendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="chemin" lemma="chemin" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="nos" lemma="nos" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="palais" lemma="palais" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="39">
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="répondit" lemma="répondre" postag="VER" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="40">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Antinoos" lemma="Antinoos" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ce" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="n'" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="moi" lemma="moi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="chasser" lemma="chasser" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="sa" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="maison" lemma="maison" postag="NOM" id="calbetrosny1897_02" />
+          <word form="celle" lemma="celui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="m'" lemma="me" postag="PRO" id="calbetrosny1897_02" />
+          <word form="a" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="enfanté" lemma="enfanter" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="quant" lemma="quant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="semble" lemma="sembler" postag="VER" id="calbetrosny1897_02" />
+          <word form="juste" lemma="juste" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="mettre" lemma="mettre" postag="VER" id="calbetrosny1897_02" />
+          <word form="au" lemma="au" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="pillage" lemma="pillage" postag="NOM" id="calbetrosny1897_02" />
+          <word form="ma" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="demeure" lemma="demeure" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="j'" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="en" lemma="en" postag="PRP" id="calbetrosny1897_02" />
+          <word form="appellerai" lemma="appeler" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Zeus" lemma="Zeus" postag="NAM" id="calbetrosny1897_02" />
+          <word form="dont" lemma="dont" postag="PRO" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vengeance" lemma="vengeance" postag="NOM" id="calbetrosny1897_02" />
+          <word form="sera" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="terrible" lemma="terrible" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="41">
+          <word form="Il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="Zeus" lemma="Zeus" postag="NAM" id="calbetrosny1897_02" />
+          <word form="fit" lemma="faire" postag="VER" id="calbetrosny1897_02" />
+          <word form="partir" lemma="partir" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="nue" lemma="nu" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="son" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="intention" lemma="intention" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="deux" lemma="deux" postag="NUM" id="calbetrosny1897_02" />
+          <word form="aigles" lemma="aigle" postag="NOM" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="volèrent" lemma="voler" postag="VER" id="calbetrosny1897_02" />
+          <word form="au-dessus" lemma="au-dessus" postag="ADV" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="assemblée" lemma="assemblée" postag="NOM" id="calbetrosny1897_02" />
+          <word form="bruyante" lemma="bruyant" postag="ADJ" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="cette" lemma="cette" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vue" lemma="vue" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="Grecs" lemma="Grecs" postag="NAM" id="calbetrosny1897_02" />
+          <word form="furent" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="saisis" lemma="saisir" postag="VER" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="étonnement" lemma="étonnement" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="42">
+          <word form="Halitherse" lemma="Halitherse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="fils" lemma="fils" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Mastor" lemma="Mastor" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="vieillard" lemma="vieillard" postag="NOM" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="excellait" lemma="exceller" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="expliquer" lemma="expliquer" postag="VER" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="présages" lemma="présage" postag="NOM" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="43">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Ithaciens" lemma="Ithaciens" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="surtout" lemma="surtout" postag="ADV" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="prétendants" lemma="prétendant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="grand" lemma="grand" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="malheur" lemma="malheur" postag="NOM" id="calbetrosny1897_02" />
+          <word form="vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="menace" lemma="menace" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="44">
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="peut-être" lemma="peut-être" postag="ADV" id="calbetrosny1897_02" />
+          <word form="déjà" lemma="déjà" postag="ADV" id="calbetrosny1897_02" />
+          <word form="près" lemma="près" postag="PRP" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ici" lemma="ici" postag="ADV" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="préparant" lemma="préparer" postag="VER" id="calbetrosny1897_02" />
+          <word form="votre" lemma="votre" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mort" lemma="mort" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="45">
+          <word form="Quand" lemma="quand" postag="KON" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="partit" lemma="partir" postag="VER" id="calbetrosny1897_02" />
+          <word form="pour" lemma="pour" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Ilion" lemma="Ilion" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="avais" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="-je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="prédit" lemma="prédire" postag="VER" id="calbetrosny1897_02" />
+          <word form="qu'" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="reviendrait" lemma="revenir" postag="VER" id="calbetrosny1897_02" />
+          <word form="seul" lemma="seul" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="sa" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="patrie" lemma="patrie" postag="NOM" id="calbetrosny1897_02" />
+          <word form="après" lemma="après" postag="PRP" id="calbetrosny1897_02" />
+          <word form="vingt" lemma="vingt" postag="NUM" id="calbetrosny1897_02" />
+          <word form="années" lemma="année" postag="NOM" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="absence" lemma="absence" postag="NOM" id="calbetrosny1897_02" />
+          <word form="?" lemma="?" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="46">
+          <word form="Ces" lemma="ces" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="choses" lemma="chose" postag="NOM" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="accomplissent" lemma="accomplir" postag="VER" id="calbetrosny1897_02" />
+          <word form="aujourd'hui" lemma="aujourd'hui" postag="ADV" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="47">
+          <word form="Eurymaque" lemma="Eurymaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="fils" lemma="fils" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Polybe" lemma="Polybe" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="alors" lemma="alors" postag="ADV" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="48">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Vieillard" lemma="vieillard" postag="NOM" id="calbetrosny1897_02" />
+          <word form="stupide" lemma="stupide" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="reste" lemma="rester" postag="VER" id="calbetrosny1897_02" />
+          <word form="chez" lemma="chez" postag="PRP" id="calbetrosny1897_02" />
+          <word form="toi" lemma="toi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="prédire" lemma="prédire" postag="VER" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="avenir" lemma="avenir" postag="NOM" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="tes" lemma="ton" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="enfants" lemma="enfant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="contempler" lemma="contempler" postag="VER" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vol" lemma="vol" postag="NOM" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="oiseaux" lemma="oiseau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="49">
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="bien" lemma="bien" postag="ADV" id="calbetrosny1897_02" />
+          <word form="mort" lemma="mort" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="plût" lemma="plaire" postag="VER" id="calbetrosny1897_02" />
+          <word form="aux" lemma="aux" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="dieux" lemma="dieu" postag="NOM" id="calbetrosny1897_02" />
+          <word form="que" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="tu" lemma="tu" postag="PRO" id="calbetrosny1897_02" />
+          <word form="eusses" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="péri" lemma="périr" postag="VER" id="calbetrosny1897_02" />
+          <word form="avec" lemma="avec" postag="PRP" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="tu" lemma="tu" postag="PRO" id="calbetrosny1897_02" />
+          <word form="n'" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="exciterais" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="/" lemma="/" postag="PUNdiv" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="ainsi" lemma="ainsi" postag="ADV" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="espoir" lemma="espoir" postag="NOM" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="une" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="récompense" lemma="récompense" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="50">
+          <word form="Voici" lemma="voici" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ce" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="que" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="propose" lemma="proposer" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="51">
+          <word form="Qu'" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ordonne" lemma="ordonner" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="sa" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mère" lemma="mère" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="retourner" lemma="retourner" postag="VER" id="calbetrosny1897_02" />
+          <word form="chez" lemma="chez" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Icarios" lemma="Icarios" postag="NAM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="choisir" lemma="choisir" postag="VER" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="époux" lemma="époux" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="car" lemma="car" postag="KON" id="calbetrosny1897_02" />
+          <word form="aucun" lemma="aucun" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="renonce" lemma="renoncer" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="sa" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="main" lemma="main" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="52">
+          <word form="Nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="craignons" lemma="craindre" postag="VER" id="calbetrosny1897_02" />
+          <word form="personne" lemma="personne" postag="PRO" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ni" lemma="ni" postag="KON" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="grand" lemma="grand" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="parleur" lemma="parleur" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ni" lemma="ni" postag="KON" id="calbetrosny1897_02" />
+          <word form="toi" lemma="toi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="vieillard" lemma="vieillard" postag="NOM" id="calbetrosny1897_02" />
+          <word form="insensé" lemma="insensé" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="consumerons" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="sans" lemma="sans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="remords" lemma="remords" postag="NOM" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="richesses" lemma="richesse" postag="NOM" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="tant" lemma="tant" postag="ADV" id="calbetrosny1897_02" />
+          <word form="que" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="rusée" lemma="rusé" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="Pénélope" lemma="Pénélope" postag="NAM" id="calbetrosny1897_02" />
+          <word form="différera" lemma="différer" postag="VER" id="calbetrosny1897_02" />
+          <word form="son" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mariage" lemma="mariage" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="53">
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="répondit" lemma="répondre" postag="VER" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="54">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Eurymaque" lemma="Eurymaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="nobles" lemma="noble" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="prétendants" lemma="prétendant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="dieux" lemma="dieu" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="Grecs" lemma="Grecs" postag="NAM" id="calbetrosny1897_02" />
+          <word form="savent" lemma="savoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="désormais" lemma="désormais" postag="ADV" id="calbetrosny1897_02" />
+          <word form="ce" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="en" lemma="en" postag="PRP" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="55">
+          <word form="Donnez" lemma="donner" postag="VER" id="calbetrosny1897_02" />
+          <word form="-moi" lemma="moi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vaisseau" lemma="vaisseau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="rapide" lemma="rapide" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="vingt" lemma="vingt" postag="NUM" id="calbetrosny1897_02" />
+          <word form="compagnons" lemma="compagnon" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="j'" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="irai" lemma="aller" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Sparte" lemma="Sparte" postag="NAM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Pylos" lemma="Pylos" postag="NAM" id="calbetrosny1897_02" />
+          <word form="m'" lemma="me" postag="PRO" id="calbetrosny1897_02" />
+          <word form="informer" lemma="informer" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="mon" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="père" lemma="père" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="vivant" lemma="vivant" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="j'" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="attendrai" lemma="attendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="an" lemma="an" postag="NOM" id="calbetrosny1897_02" />
+          <word form="encore" lemma="encore" postag="ADV" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="mort" lemma="mort" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="reviendrai" lemma="revenir" postag="VER" id="calbetrosny1897_02" />
+          <word form="pour" lemma="pour" postag="PRP" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="élever" lemma="élever" postag="VER" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="tombeau" lemma="tombeau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="faire" lemma="faire" postag="VER" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="funérailles" lemma="funérailles" postag="NOM" id="calbetrosny1897_02" />
+          <word form="dignes" lemma="digne" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="puis" lemma="puis" postag="ADV" id="calbetrosny1897_02" />
+          <word form="je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="donnerai" lemma="donner" postag="VER" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="époux" lemma="époux" postag="NOM" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ma" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mère" lemma="mère" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="56">
+          <word form="Alors" lemma="alors" postag="ADV" id="calbetrosny1897_02" />
+          <word form="Mentor" lemma="Mentor" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="fidèle" lemma="fidèle" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="intendant" lemma="intendant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="maison" lemma="maison" postag="NOM" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="leva" lemma="lever" postag="VER" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="prononça" lemma="prononcer" postag="VER" id="calbetrosny1897_02" />
+          <word form="ces" lemma="ces" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="paroles" lemma="parole" postag="NOM" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="57">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="écoutez" lemma="écouter" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="Ithaciens" lemma="Ithaciens" postag="NAM" id="calbetrosny1897_02" />
+          <word form="!" lemma="!" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="58">
+          <word form="Puisque" lemma="puisque" postag="KON" id="calbetrosny1897_02" />
+          <word form="personne" lemma="personne" postag="PRO" id="calbetrosny1897_02" />
+          <word form="parmi" lemma="parmi" postag="PRP" id="calbetrosny1897_02" />
+          <word form="vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="souvient" lemma="souvenir" postag="VER" id="calbetrosny1897_02" />
+          <word form="du" lemma="du" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="divin" lemma="divin" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="sa" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="douceur" lemma="douceur" postag="NOM" id="calbetrosny1897_02" />
+          <word form="paternelle" lemma="paternel" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="craignez" lemma="craindre" postag="VER" id="calbetrosny1897_02" />
+          <word form="-vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="mériter" lemma="mériter" postag="VER" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="roi" lemma="roi" postag="NOM" id="calbetrosny1897_02" />
+          <word form="cruel" lemma="cruel" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="injuste" lemma="injuste" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="pour" lemma="pour" postag="PRP" id="calbetrosny1897_02" />
+          <word form="demeurer" lemma="demeurer" postag="VER" id="calbetrosny1897_02" />
+          <word form="tous" lemma="tous" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="ainsi" lemma="ainsi" postag="ADV" id="calbetrosny1897_02" />
+          <word form="lâches" lemma="lâche" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="sans" lemma="sans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="voix" lemma="voix" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="devant" lemma="devant" postag="PRP" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="exigences" lemma="exigence" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ces" lemma="ces" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="quelques" lemma="quelques" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="prétendants" lemma="prétendant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="audacieux" lemma="audacieux" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="?" lemma="?" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="59">
+          <word form="Léocrite" lemma="Léocrite" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="fils" lemma="fils" postag="NOM" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Evénor" lemma="Evénor" postag="NAM" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="répondit" lemma="répondre" postag="VER" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="60">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Mentor" lemma="Mentor" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ton" lemma="ton" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="esprit" lemma="esprit" postag="NOM" id="calbetrosny1897_02" />
+          <word form="insolent" lemma="insolent" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="trouble" lemma="trouble" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="tu" lemma="tu" postag="PRO" id="calbetrosny1897_02" />
+          <word form="crois" lemma="croire" postag="VER" id="calbetrosny1897_02" />
+          <word form="exciter" lemma="exciter" postag="VER" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="peuple" lemma="peuple" postag="NOM" id="calbetrosny1897_02" />
+          <word form="contre" lemma="contre" postag="PRP" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="mais" lemma="mais" postag="KON" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="lui-même" lemma="lui-même" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="parviendrait" lemma="parvenir" postag="VER" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="chasser" lemma="chasser" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="son" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="palais" lemma="palais" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="61">
+          <word form="Pour" lemma="pour" postag="PRP" id="calbetrosny1897_02" />
+          <word form="vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="Ithaciens" lemma="Ithaciens" postag="NAM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="62">
+          <word form="séparez" lemma="séparer" postag="VER" id="calbetrosny1897_02" />
+          <word form="-vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="retournez" lemma="retourner" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="vos" lemma="vos" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="travaux" lemma="travail" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="Mentor" lemma="Mentor" postag="NAM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="Halitherse" lemma="Halitherse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="prépareront" lemma="préparer" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="loisir" lemma="loisir" postag="NOM" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="départ" lemma="départ" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="63">
+          <word form="Il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="64">
+          <word form="Les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="Grecs" lemma="Grecs" postag="NAM" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dispersèrent" lemma="disperser" postag="VER" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="prétendants" lemma="prétendant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="retournèrent" lemma="retourner" postag="VER" id="calbetrosny1897_02" />
+          <word form="au" lemma="au" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="palais" lemma="palais" postag="NOM" id="calbetrosny1897_02" />
+          <word form="du" lemma="du" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="divin" lemma="divin" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="65">
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="alors" lemma="alors" postag="ADV" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dirigea" lemma="diriger" postag="VER" id="calbetrosny1897_02" />
+          <word form="vers" lemma="vers" postag="PRP" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="rivage" lemma="rivage" postag="NOM" id="calbetrosny1897_02" />
+          <word form="pour" lemma="pour" postag="PRP" id="calbetrosny1897_02" />
+          <word form="invoquer" lemma="invoquer" postag="VER" id="calbetrosny1897_02" />
+          <word form="Minerve" lemma="Minerve" postag="NAM" id="calbetrosny1897_02" />
+          <word form="aux" lemma="aux" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="yeux" lemma="oeil" postag="NOM" id="calbetrosny1897_02" />
+          <word form="bleus" lemma="bleu" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="66">
+          <word form="Après" lemma="après" postag="PRP" id="calbetrosny1897_02" />
+          <word form="avoir" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="purifié" lemma="purifier" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="ses" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mains" lemma="main" postag="NOM" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Fonde" lemma="fonder" postag="VER" id="calbetrosny1897_02" />
+          <word form="salée" lemma="salé" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="fit" lemma="faire" postag="VER" id="calbetrosny1897_02" />
+          <word form="cette" lemma="cette" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="prière" lemma="prière" postag="NOM" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="67">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Ecoute" lemma="écouter" postag="VER" id="calbetrosny1897_02" />
+          <word form="-moi" lemma="moi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ô" lemma="ô" postag="PUN" id="calbetrosny1897_02" />
+          <word form="déesse" lemma="déesse" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="68">
+          <word form="Hier" lemma="hier" postag="ADV" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="tu" lemma="tu" postag="PRO" id="calbetrosny1897_02" />
+          <word form="m'" lemma="me" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ordonnas" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="partir" lemma="partir" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="recherche" lemma="recherche" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="mon" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="père" lemma="père" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="mais" lemma="mais" postag="KON" id="calbetrosny1897_02" />
+          <word form="vois" lemma="voir" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="aujourd'hui" lemma="aujourd'hui" postag="ADV" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="prétendants" lemma="prétendant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="insolents" lemma="insolent" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="oppbsent" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="mon" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="départ" lemma="départ" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="69">
+          <word form="Alors" lemma="alors" postag="ADV" id="calbetrosny1897_02" />
+          <word form="Minerve" lemma="Minerve" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="sous" lemma="sous" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="figure" lemma="figure" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Mentor" lemma="Mentor" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="approcha" lemma="approcher" postag="VER" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="adressa" lemma="adresser" postag="VER" id="calbetrosny1897_02" />
+          <word form="ces" lemma="ces" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="paroles" lemma="parole" postag="NOM" id="calbetrosny1897_02" />
+          <word form="rapides" lemma="rapide" postag="ADJ" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="70">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="méprise" lemma="mépriser" postag="VER" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="manœuvres" lemma="manoeuvre" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ces" lemma="ces" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="prétendants" lemma="prétendant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="imprudents" lemma="imprudent" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="voient" lemma="voir" postag="VER" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="Parque" lemma="Parque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="noire" lemma="noir" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="déjà" lemma="déjà" postag="ADV" id="calbetrosny1897_02" />
+          <word form="près" lemma="près" postag="PRP" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="eux" lemma="eux" postag="PRO" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="71">
+          <word form="Ton" lemma="ton" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="départ" lemma="départ" postag="NOM" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="sera" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="différé" lemma="différé" postag="ADJ" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="t'" lemma="te" postag="PRO" id="calbetrosny1897_02" />
+          <word form="accompagnerai" lemma="accompagner" postag="VER" id="calbetrosny1897_02" />
+          <word form="moi-même" lemma="moi-même" postag="PRO" id="calbetrosny1897_02" />
+          <word form="sur" lemma="sur" postag="PRP" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vaisseau" lemma="vaisseau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="rapide" lemma="rapide" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="72">
+          <word form="Va" lemma="aller" postag="VER" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ton" lemma="ton" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="palais" lemma="palais" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="prépare" lemma="préparer" postag="VER" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="provisions" lemma="provision" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="mets" lemma="mettre" postag="VER" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vin" lemma="vin" postag="NOM" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="amphores" lemma="amphore" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="farine" lemma="farine" postag="NOM" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="outres" lemma="outre" postag="NOM" id="calbetrosny1897_02" />
+          <word form="épaisses" lemma="épais" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="73">
+          <word form="Je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="réunirai" lemma="réunir" postag="VER" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="compagnons" lemma="compagnon" postag="NOM" id="calbetrosny1897_02" />
+          <word form="fidèles" lemma="fidèle" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="lancerons" lemma="lancer" postag="VER" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vaisseau" lemma="vaisseau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="creux" lemma="creux" postag="NOM" id="calbetrosny1897_02" />
+          <word form="sur" lemma="sur" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mer" lemma="mer" postag="NOM" id="calbetrosny1897_02" />
+          <word form="profonde" lemma="profond" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="74">
+          <word form="Ainsi" lemma="ainsi" postag="ADV" id="calbetrosny1897_02" />
+          <word form="parla" lemma="parler" postag="VER" id="calbetrosny1897_02" />
+          <word form="Minerve" lemma="Minerve" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="retourna" lemma="retourner" postag="VER" id="calbetrosny1897_02" />
+          <word form="au" lemma="au" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="palais" lemma="palais" postag="NOM" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="cœur" lemma="coeur" postag="NOM" id="calbetrosny1897_02" />
+          <word form="agité" lemma="agiter" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="75">
+          <word form="Là" lemma="là" postag="ADV" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="fiers" lemma="fier" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="prétendants" lemma="prétendant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="dépouillaient" lemma="dépouiller" postag="VER" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="chèvres" lemma="chèvre" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="flambaient" lemma="flamber" postag="VER" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="porcs" lemma="porc" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="76">
+          <word form="Antinoos" lemma="Antinoos" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="riant" lemma="rire" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="vint" lemma="venir" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="prit" lemma="prendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="main" lemma="main" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="77">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Harangueur" lemma="Harangueur" postag="NAM" id="calbetrosny1897_02" />
+          <word form="altier" lemma="altier" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="oublie" lemma="oublier" postag="VER" id="calbetrosny1897_02" />
+          <word form="ta" lemma="ton" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="colère" lemma="colère" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="viens" lemma="venir" postag="VER" id="calbetrosny1897_02" />
+          <word form="avec" lemma="avec" postag="PRP" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="manger" lemma="manger" postag="VER" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="boire" lemma="boire" postag="VER" id="calbetrosny1897_02" />
+          <word form="en" lemma="en" postag="PRP" id="calbetrosny1897_02" />
+          <word form="attendant" lemma="attendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="ton" lemma="ton" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="dép" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="ait" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="pour" lemma="pour" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="divine" lemma="divin" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="Pylos" lemma="Pylos" postag="NAM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="78">
+          <word form="Mais" lemma="mais" postag="KON" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="répondit" lemma="répondre" postag="VER" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="79">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Antinoos" lemma="Antinoos" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="m'" lemma="me" postag="PRO" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="plus" lemma="plus" postag="ADV" id="calbetrosny1897_02" />
+          <word form="permis" lemma="permettre" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="me" lemma="me" postag="PRO" id="calbetrosny1897_02" />
+          <word form="divertir" lemma="divertir" postag="VER" id="calbetrosny1897_02" />
+          <word form="avec" lemma="avec" postag="PRP" id="calbetrosny1897_02" />
+          <word form="vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="vous" lemma="vous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="avez" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="dissipé" lemma="dissiper" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="mes" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="biens" lemma="bien" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="alors" lemma="alors" postag="ADV" id="calbetrosny1897_02" />
+          <word form="que" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="j'" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="étais" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="enfant" lemma="enfant" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="aujourd'hui" lemma="aujourd'hui" postag="ADV" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="m'" lemma="me" postag="PRO" id="calbetrosny1897_02" />
+          <word form="instruis" lemma="instruire" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ma" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="volonté" lemma="volonté" postag="NOM" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="développe" lemma="développer" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="m'" lemma="me" postag="PRO" id="calbetrosny1897_02" />
+          <word form="excite" lemma="exciter" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="partir" lemma="partir" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="puisque" lemma="puisque" postag="KON" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="Grecs" lemma="Grecs" postag="NAM" id="calbetrosny1897_02" />
+          <word form="m'" lemma="me" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ont" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="refusé" lemma="refuser" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vaisseau" lemma="vaisseau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="rameurs" lemma="rameur" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="partirai" lemma="partir" postag="VER" id="calbetrosny1897_02" />
+          <word form="comme" lemma="comme" postag="KON" id="calbetrosny1897_02" />
+          <word form="simple" lemma="simple" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="passager" lemma="passager" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="80">
+          <word form="Il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="retira" lemma="retirer" postag="VER" id="calbetrosny1897_02" />
+          <word form="sa" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="main" lemma="main" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="81">
+          <word form="Dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="palais" lemma="palais" postag="NOM" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="prétendants" lemma="prétendant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="préparaient" lemma="préparer" postag="VER" id="calbetrosny1897_02" />
+          <word form="leur" lemma="leurs" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="festin" lemma="festin" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="tous" lemma="tous" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="riaient" lemma="rire" postag="VER" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="tenaient" lemma="tenir" postag="VER" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="propos" lemma="propos" postag="NOM" id="calbetrosny1897_02" />
+          <word form="injurieux" lemma="injurieux" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="eux" lemma="eux" postag="PRO" id="calbetrosny1897_02" />
+          <word form="parlait" lemma="parler" postag="VER" id="calbetrosny1897_02" />
+          <word form="ainsi" lemma="ainsi" postag="ADV" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="82">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="médite" lemma="méditer" postag="VER" id="calbetrosny1897_02" />
+          <word form="notre" lemma="notre" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="perte" lemma="perte" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="83">
+          <word form="Il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ramènera" lemma="ramener" postag="VER" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="auxiliaires" lemma="auxiliaire" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Pylos" lemma="Pylos" postag="NAM" id="calbetrosny1897_02" />
+          <word form="ou" lemma="ou" postag="KON" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Sparte" lemma="Sparte" postag="NAM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="84">
+          <word form="Peut-être" lemma="peut-être" postag="ADV" id="calbetrosny1897_02" />
+          <word form="aussi" lemma="aussi" postag="ADV" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="a" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="-t-il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Ephire" lemma="Ephire" postag="NAM" id="calbetrosny1897_02" />
+          <word form="chercher" lemma="chercher" postag="VER" id="calbetrosny1897_02" />
+          <word form="pour" lemma="pour" postag="PRP" id="calbetrosny1897_02" />
+          <word form="nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="poisons" lemma="poison" postag="NOM" id="calbetrosny1897_02" />
+          <word form="mortels" lemma="mortel" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="85">
+          <word form="Un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="autre" lemma="autre" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="disait" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="encore" lemma="encore" postag="ADV" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="86">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="sait" lemma="savoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="périra" lemma="périr" postag="VER" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="lui-même" lemma="lui-même" postag="PRO" id="calbetrosny1897_02" />
+          <word form="comme" lemma="comme" postag="KON" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="r" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="Nous" lemma="nous" postag="PRO" id="calbetrosny1897_02" />
+          <word form="partagerions" lemma="partager" postag="VER" id="calbetrosny1897_02" />
+          <word form="alors" lemma="alors" postag="ADV" id="calbetrosny1897_02" />
+          <word form="ses" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="biens" lemma="bien" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="87">
+          <word form="Ils" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="disaient" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="ainsi" lemma="ainsi" postag="ADV" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="descendit" lemma="descendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vaste" lemma="vaste" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="cellier" lemma="cellier" postag="NOM" id="calbetrosny1897_02" />
+          <word form="où" lemma="où" postag="PRO" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="trouvaient" lemma="trouver" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="or" lemma="or" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="airain" lemma="airain" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="riches" lemma="riche" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="vêtements" lemma="vêtement" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="l'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="huile" lemma="huile" postag="NOM" id="calbetrosny1897_02" />
+          <word form="parfumée" lemma="parfumé" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="88">
+          <word form="On" lemma="on" postag="PRO" id="calbetrosny1897_02" />
+          <word form="y" lemma="y" postag="PRO" id="calbetrosny1897_02" />
+          <word form="voyait" lemma="voir" postag="VER" id="calbetrosny1897_02" />
+          <word form="aussi" lemma="aussi" postag="ADV" id="calbetrosny1897_02" />
+          <word form="contre" lemma="contre" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="muraille" lemma="muraille" postag="NOM" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="tonneaux" lemma="tonneau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="contenant" lemma="contenir" postag="VER" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vin" lemma="vin" postag="NOM" id="calbetrosny1897_02" />
+          <word form="vieux" lemma="vieux" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="doux" lemma="doux" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="breuvage" lemma="breuvage" postag="NOM" id="calbetrosny1897_02" />
+          <word form="sans" lemma="sans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="mélange" lemma="mélange" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="digne" lemma="digne" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="dieux" lemma="dieu" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="89">
+          <word form="L'" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="intendance" lemma="intendance" postag="NOM" id="calbetrosny1897_02" />
+          <word form="Euryclée" lemma="Euryclée" postag="NAM" id="calbetrosny1897_02" />
+          <word form="veillait" lemma="veiller" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="porte" lemma="porte" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="90">
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="91">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Bonne" lemma="bon" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="Euryclee" lemma="Euryclee" postag="NAM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="92">
+          <word form="puise" lemma="puiser" postag="VER" id="calbetrosny1897_02" />
+          <word form="pour" lemma="pour" postag="PRP" id="calbetrosny1897_02" />
+          <word form="moi" lemma="moi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="amphores" lemma="amphore" postag="NOM" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vin" lemma="vin" postag="NOM" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="plus" lemma="plus" postag="ADV" id="calbetrosny1897_02" />
+          <word form="doux" lemma="doux" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="api" lemma="api" postag="NOM" id="calbetrosny1897_02" />
+          <word form="ès" lemma="ès" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="celui" lemma="celui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="que" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="tu" lemma="tu" postag="PRO" id="calbetrosny1897_02" />
+          <word form="gardes" lemma="garde" postag="NOM" id="calbetrosny1897_02" />
+          <word form="pour" lemma="pour" postag="PRP" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="noble" lemma="noble" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="93">
+          <word form="Remplis" lemma="rempli" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="douze" lemma="douze" postag="NUM" id="calbetrosny1897_02" />
+          <word form="vases" lemma="vase" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="prépare" lemma="préparer" postag="VER" id="calbetrosny1897_02" />
+          <word form="aussi" lemma="aussi" postag="ADV" id="calbetrosny1897_02" />
+          <word form="vingt" lemma="vingt" postag="NUM" id="calbetrosny1897_02" />
+          <word form="mesures" lemma="mesure" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="farine" lemma="farine" postag="NOM" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="orge" lemma="orge" postag="NOM" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="outres" lemma="outre" postag="NOM" id="calbetrosny1897_02" />
+          <word form="bien" lemma="bien" postag="ADV" id="calbetrosny1897_02" />
+          <word form="fermées" lemma="fermé" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="94">
+          <word form="Je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="vais" lemma="aller" postag="VER" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Sparte" lemma="Sparte" postag="NAM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Pylos" lemma="Pylos" postag="NAM" id="calbetrosny1897_02" />
+          <word form="chercher" lemma="chercher" postag="VER" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="nouvelles" lemma="nouveau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="mon" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="père" lemma="père" postag="NOM" id="calbetrosny1897_02" />
+          <word form="chéri" lemma="chéri" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="95">
+          <word form="Toi" lemma="toi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="seule" lemma="seul" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="connais" lemma="connaître" postag="VER" id="calbetrosny1897_02" />
+          <word form="mon" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="projet" lemma="projet" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="rassemble" lemma="rassembler" postag="VER" id="calbetrosny1897_02" />
+          <word form="ces" lemma="ces" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="provisions" lemma="provision" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="je" lemma="je" postag="PRO" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="prendrai" lemma="prendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="ce" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="soir" lemma="soir" postag="NOM" id="calbetrosny1897_02" />
+          <word form="quand" lemma="quand" postag="KON" id="calbetrosny1897_02" />
+          <word form="ma" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mère" lemma="mère" postag="NOM" id="calbetrosny1897_02" />
+          <word form="reposera" lemma="reposer" postag="VER" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="96">
+          <word form="Niais" lemma="niais" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="tendre" lemma="tendre" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="Euryclée" lemma="Euryclée" postag="NAM" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="adressa" lemma="adresser" postag="VER" id="calbetrosny1897_02" />
+          <word form="en" lemma="en" postag="PRP" id="calbetrosny1897_02" />
+          <word form="pleurant" lemma="pleurer" postag="VER" id="calbetrosny1897_02" />
+          <word form="ces" lemma="ces" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="douces" lemma="doux" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="paroles" lemma="parole" postag="NOM" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="97">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Cher" lemma="cher" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="enfant" lemma="enfant" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="quel" lemma="quel" postag="DETinter" id="calbetrosny1897_02" />
+          <word form="dessein" lemma="dessein" postag="NOM" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="entré" lemma="entrer" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ton" lemma="ton" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="esprit" lemma="esprit" postag="NOM" id="calbetrosny1897_02" />
+          <word form="?" lemma="?" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="98">
+          <word form="Pourquoi" lemma="pourquoi" postag="ADV" id="calbetrosny1897_02" />
+          <word form="entreprendre" lemma="entreprendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="ce" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="voyage" lemma="voyage" postag="NOM" id="calbetrosny1897_02" />
+          <word form="lointain" lemma="lointain" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="toi" lemma="toi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="si" lemma="si" postag="KON" id="calbetrosny1897_02" />
+          <word form="tendrement" lemma="tendrement" postag="ADV" id="calbetrosny1897_02" />
+          <word form="aimé" lemma="aimer" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="?" lemma="?" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="99">
+          <word form="Reste" lemma="rester" postag="VER" id="calbetrosny1897_02" />
+          <word form="au" lemma="au" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="milieu" lemma="milieu" postag="NOM" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="tiens" lemma="tenir" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="t'" lemma="te" postag="PRO" id="calbetrosny1897_02" />
+          <word form="expose" lemma="exposer" postag="VER" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="mille" lemma="mille" postag="NUM" id="calbetrosny1897_02" />
+          <word form="maux" lemma="mal" postag="NOM" id="calbetrosny1897_02" />
+          <word form="sur" lemma="sur" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mer" lemma="mer" postag="NOM" id="calbetrosny1897_02" />
+          <word form="mouvante" lemma="mouvant" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="100">
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="lui" lemma="lui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="répondit" lemma="répondre" postag="VER" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="101">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Rassure" lemma="rassurer" postag="VER" id="calbetrosny1897_02" />
+          <word form="-toi" lemma="toi" postag="PRO" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="102">
+          <word form="ce" lemma="ce" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="dessein" lemma="dessein" postag="NOM" id="calbetrosny1897_02" />
+          <word form="m'" lemma="me" postag="PRO" id="calbetrosny1897_02" />
+          <word form="a" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="été" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="inspiré" lemma="inspirer" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="par" lemma="par" postag="PRP" id="calbetrosny1897_02" />
+          <word form="une" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="déesse" lemma="déesse" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="mais" lemma="mais" postag="KON" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="découvre" lemma="découvrir" postag="VER" id="calbetrosny1897_02" />
+          <word form="point" lemma="point" postag="ADV" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ma" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mère" lemma="mère" postag="NOM" id="calbetrosny1897_02" />
+          <word form="avant" lemma="avant" postag="PRP" id="calbetrosny1897_02" />
+          <word form="onze" lemma="onze" postag="NUM" id="calbetrosny1897_02" />
+          <word form="ou" lemma="ou" postag="KON" id="calbetrosny1897_02" />
+          <word form="douze" lemma="douze" postag="NUM" id="calbetrosny1897_02" />
+          <word form="jours" lemma="jour" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="moins" lemma="moins" postag="ADV" id="calbetrosny1897_02" />
+          <word form="qu'" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="afflige" lemma="affliger" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="mon" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="absence" lemma="absence" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ayant" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="appris" lemma="apprendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="mon" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="départ" lemma="départ" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="103">
+          <word form="Euryclée" lemma="Euryclée" postag="NAM" id="calbetrosny1897_02" />
+          <word form="alors" lemma="alors" postag="ADV" id="calbetrosny1897_02" />
+          <word form="jura" lemma="jurer" postag="VER" id="calbetrosny1897_02" />
+          <word form="par" lemma="par" postag="PRP" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="dieux" lemma="dieu" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="104">
+          <word form="Cependant" lemma="cependant" postag="ADV" id="calbetrosny1897_02" />
+          <word form="Minerve" lemma="Minerve" postag="NAM" id="calbetrosny1897_02" />
+          <word form="sous" lemma="sous" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="figure" lemma="figure" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="parcourait" lemma="parcourir" postag="VER" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="ville" lemma="ville" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="105">
+          <word form="A" lemma="avoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="Noémon" lemma="Noémon" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="fils" lemma="fils" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Phronios" lemma="Phronios" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="demandait" lemma="demander" postag="VER" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vaisseau" lemma="vaisseau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="rapide" lemma="rapide" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="rassemblait" lemma="rassembler" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="robustes" lemma="robuste" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="compagnons" lemma="compagnon" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="106">
+          <word form="Elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="rendit" lemma="rendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="ensuite" lemma="ensuite" postag="ADV" id="calbetrosny1897_02" />
+          <word form="au" lemma="au" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="palais" lemma="palais" postag="NOM" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="répandit" lemma="répandre" postag="VER" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="divin" lemma="divin" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="sommeil" lemma="sommeil" postag="NOM" id="calbetrosny1897_02" />
+          <word form="sur" lemma="sur" postag="PRP" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="yeux" lemma="oeil" postag="NOM" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="prétendants" lemma="prétendant" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="tandis" lemma="tandis" postag="KON" id="calbetrosny1897_02" />
+          <word form="qu'" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ils" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="buvaient" lemma="boire" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="leurs" lemma="leurs" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="coupes" lemma="coupe" postag="NOM" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="alourdirent" lemma="alourdir" postag="VER" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="leurs" lemma="leurs" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mains" lemma="main" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="ils" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="se" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="hâtèrent" lemma="hâter" postag="VER" id="calbetrosny1897_02" />
+          <word form="donc" lemma="donc" postag="KON" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="regagner" lemma="regagner" postag="VER" id="calbetrosny1897_02" />
+          <word form="leurs" lemma="leurs" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="demeures" lemma="demeure" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="107">
+          <word form="Puis" lemma="puis" postag="ADV" id="calbetrosny1897_02" />
+          <word form="Minerve" lemma="Minerve" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="sous" lemma="sous" postag="PRP" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="traits" lemma="trait" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Mentor" lemma="Mentor" postag="NAM" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="au" lemma="au" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="fils" lemma="fils" postag="NOM" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Ulysse" lemma="Ulysse" postag="NAM" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="108">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Allons" lemma="aller" postag="VER" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="109">
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="ne" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="différons" lemma="différer" postag="VER" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="notre" lemma="notre" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="départ" lemma="départ" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="tes" lemma="ton" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="compagnons" lemma="compagnon" postag="NOM" id="calbetrosny1897_02" />
+          <word form="aux" lemma="aux" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="belles" lemma="beau" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="cnémides" lemma="" postag="Indef" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="n'" lemma="ne" postag="ADV" id="calbetrosny1897_02" />
+          <word form="attendent" lemma="attendre" postag="VER" id="calbetrosny1897_02" />
+          <word form="plus" lemma="plus" postag="ADV" id="calbetrosny1897_02" />
+          <word form="que" lemma="que" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ton" lemma="ton" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="arrivée" lemma="arrivée" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="110">
+          <word form="Elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dit" lemma="dire" postag="VER" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="marcha" lemma="marcher" postag="VER" id="calbetrosny1897_02" />
+          <word form="d'" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="un" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="pas" lemma="pas" postag="ADV" id="calbetrosny1897_02" />
+          <word form="rapide" lemma="rapide" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="suivie" lemma="suivre" postag="VER" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="111">
+          <word form="Ils" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="trouvèrent" lemma="trouver" postag="VER" id="calbetrosny1897_02" />
+          <word form="près" lemma="près" postag="PRP" id="calbetrosny1897_02" />
+          <word form="du" lemma="du" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vaisseau" lemma="vaisseau" postag="NOM" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="rameurs" lemma="rameur" postag="NOM" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="longue" lemma="long" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="chevelure" lemma="chevelure" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="112">
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="leur" lemma="leurs" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="adressa" lemma="adresser" postag="VER" id="calbetrosny1897_02" />
+          <word form="ces" lemma="ces" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mots" lemma="mot" postag="NOM" id="calbetrosny1897_02" />
+          <word form=":" lemma=":" postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="113">
+          <word form="—" lemma="—" postag="PUN" id="calbetrosny1897_02" />
+          <word form="Venez" lemma="venir" postag="VER" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="amis" lemma="ami" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="chercher" lemma="chercher" postag="VER" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="provisions" lemma="provision" postag="NOM" id="calbetrosny1897_02" />
+          <word form="toutes" lemma="tout" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="préparées" lemma="préparer" postag="VER:pper" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="palais" lemma="palais" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="ma" lemma="mon" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="mère" lemma="mère" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="elle" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="ignore" lemma="ignorer" postag="VER" id="calbetrosny1897_02" />
+          <word form="notre" lemma="notre" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="dessein" lemma="dessein" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="une" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="suivante" lemma="suivant" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="seule" lemma="seul" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="en" lemma="en" postag="PRP" id="calbetrosny1897_02" />
+          <word form="est" lemma="être" postag="VER" id="calbetrosny1897_02" />
+          <word form="instruite" lemma="instruire" postag="VER" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="114">
+          <word form="Les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="fidèles" lemma="fidèle" postag="NOM" id="calbetrosny1897_02" />
+          <word form="Achéens" lemma="Achéens" postag="NAM" id="calbetrosny1897_02" />
+          <word form="chargèrent" lemma="charger" postag="VER" id="calbetrosny1897_02" />
+          <word form="dans" lemma="dans" postag="PRP" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="navire" lemma="navire" postag="NOM" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="provisions" lemma="provision" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="délièrent" lemma="délier" postag="VER" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="amarres" lemma="amarre" postag="NOM" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="s'" lemma="se" postag="PRO" id="calbetrosny1897_02" />
+          <word form="assirent" lemma="asseoir" postag="VER" id="calbetrosny1897_02" />
+          <word form="sur" lemma="sur" postag="PRP" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="bancs" lemma="banc" postag="NOM" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="rameurs" lemma="rameur" postag="NOM" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="115">
+          <word form="Télémaque" lemma="Télémaque" postag="NAM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="debout" lemma="debout" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="à" lemma="à" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="poupe" lemma="poupe" postag="NOM" id="calbetrosny1897_02" />
+          <word form="près" lemma="près" postag="PRP" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="Minerve" lemma="Minerve" postag="NAM" id="calbetrosny1897_02" />
+          <word form="qui" lemma="qui" postag="PRO" id="calbetrosny1897_02" />
+          <word form="fit" lemma="faire" postag="VER" id="calbetrosny1897_02" />
+          <word form="soufflerie" lemma="soufflerie" postag="NOM" id="calbetrosny1897_02" />
+          <word form="zéphire" lemma="zéphire" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="puissant" lemma="puissant" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="excitait" lemma="exciter" postag="VER" id="calbetrosny1897_02" />
+          <word form="ses" lemma="son" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="compagnons" lemma="compagnon" postag="NOM" id="calbetrosny1897_02" />
+          <word form=";" lemma=";" postag="PUN" id="calbetrosny1897_02" />
+          <word form="il" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="fit" lemma="faire" postag="VER" id="calbetrosny1897_02" />
+          <word form="hisser" lemma="hisser" postag="VER" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="voiles" lemma="voile" postag="NOM" id="calbetrosny1897_02" />
+          <word form="blanches" lemma="blanc" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="le" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="navire" lemma="navire" postag="NOM" id="calbetrosny1897_02" />
+          <word form="glissa" lemma="glisser" postag="VER" id="calbetrosny1897_02" />
+          <word form="sur" lemma="sur" postag="PRP" id="calbetrosny1897_02" />
+          <word form="la" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="vague" lemma="vague" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="bruyante" lemma="bruyant" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+        <sentence n="116">
+          <word form="Puis" lemma="puis" postag="ADV" id="calbetrosny1897_02" />
+          <word form="ils" lemma="il" postag="PRO" id="calbetrosny1897_02" />
+          <word form="dressèrent" lemma="dresser" postag="VER" id="calbetrosny1897_02" />
+          <word form="des" lemma="un" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="cratères" lemma="cratère" postag="NOM" id="calbetrosny1897_02" />
+          <word form="," lemma="," postag="PUN" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="emplirent" lemma="emplir" postag="VER" id="calbetrosny1897_02" />
+          <word form="jusqu'" lemma="jusque" postag="PRP" id="calbetrosny1897_02" />
+          <word form="au" lemma="au" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="bord" lemma="bord" postag="NOM" id="calbetrosny1897_02" />
+          <word form="de" lemma="de" postag="PRP" id="calbetrosny1897_02" />
+          <word form="vin" lemma="vin" postag="NOM" id="calbetrosny1897_02" />
+          <word form="doux" lemma="doux" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="et" lemma="et" postag="KON" id="calbetrosny1897_02" />
+          <word form="firent" lemma="faire" postag="VER" id="calbetrosny1897_02" />
+          <word form="aux" lemma="aux" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="dieux" lemma="dieu" postag="NOM" id="calbetrosny1897_02" />
+          <word form="immortels" lemma="immortel" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="les" lemma="le" postag="DET:ART" id="calbetrosny1897_02" />
+          <word form="libations" lemma="libation" postag="NOM" id="calbetrosny1897_02" />
+          <word form="sacrées" lemma="sacré" postag="ADJ" id="calbetrosny1897_02" />
+          <word form="." lemma="." postag="SENT" id="calbetrosny1897_02" />
+        </sentence>
+      </div>
+    </body>
+  </text>
+</TEI>
