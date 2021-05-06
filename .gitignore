@@ -1,0 +1,29 @@
+### Python ###
+# Distribution / packaging
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# tools, data, and dumped models
+# /tools
+/dicts/bailly.tsv
+/dicts/train.dict
+/txt
+/dumped
+/xml/fr_translators
+/xml/homer_gk
+/tag
