@@ -1,7 +1,7 @@
 # multilingual_embeddings_research
 Attempts for unsupervised multilingual word embeddings for Greek and Latin
 
-This project contains several notebooks, each containing a (non-optimal) implementation for both MUSE and VecMap crosslingual word embeddings applied to Ancient Greek and French, using both GloVe and Word2Vec.
+This project contains several notebooks, each containing a (non-optimal) implementation for both [MUSE](https://github.com/facebookresearch/MUSE) and [VecMap](https://github.com/artetxem/vecmap) crosslingual word embeddings applied to Ancient Greek and French, using both GloVe and Word2Vec.
 
 If you want to cite this repository :
 ```
